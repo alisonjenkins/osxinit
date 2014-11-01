@@ -1,5 +1,4 @@
 libreoffice
-mactex
 keepassx
 google-chrome
 firefox
@@ -23,3 +22,6 @@ picasa
 virtualbox
 vagrant
 wireshark
+mactex
+arduino
+adafruit-arduino
