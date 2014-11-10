@@ -14,3 +14,7 @@ parallel
 p7zip
 git
 pwgen
+mongodb
+redis
+ino
+nginx
